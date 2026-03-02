@@ -1,16 +1,3 @@
-## Hi there 👋
+## Aqui é o Andrés para lhe-servir! 😎
 
-<!--
-**ANDERJD/ANDERJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...  study
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...all games
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...on instagram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Trabalhando em tudo 😁
